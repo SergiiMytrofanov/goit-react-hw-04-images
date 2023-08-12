@@ -44,4 +44,6 @@ const Modal = ({ largeImageURL, onClose }) => {
   );
 };
 
+
+
 export default Modal;
